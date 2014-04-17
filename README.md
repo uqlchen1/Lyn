@@ -1,4 +1,0 @@
-Lyn
-===
-
-learning
